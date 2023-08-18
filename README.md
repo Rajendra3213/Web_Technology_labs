@@ -7,7 +7,8 @@ Each lab exercise is organized within its own branch, making it easy to focus on
 ### Browse the list of labs below to find the topic you're interested in.
 Switch to the corresponding branch to access the lab files and instructions.
 Explore the code, follow the instructions, and experiment on your own.
-Labs List
-#### Lab 01 - Introduction to API: Branch - lab1 ( API using curl and Postman)
+<br>
+### Labs List
+#### Lab 01 - Introduction to API: Branch - lab1 ( API using curl and Postman) <be>
 <br>Feel free to clone the repository and switch between branches as you work on different labs. We hope you find these exercises valuable in your learning journey!
 
